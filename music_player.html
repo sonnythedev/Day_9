@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Music Player Exercise</title>
+   <link rel="stylesheet" type="text/css" href="styles.css">
+   <script src="music_player_functions.js"></script> 
+ </head>
+ <body>
+    <div class="container">
+        <div id="musicList" class="musicList">
+          <!--It's empty. This is where we append the formatted data from json-->
+        </div>
+
+        <div id="controlPanel" class="controlPanel">
+             Search By Title: <input type="text" id="searchTitle" onkeyup="searchAuto(this)"/><br/>
+             Search By Artist: <input type="text" id="searchArtist" onkeyup="searchAuto(this)"/><br/>
+             Search By Release Year: <input type="text" id="searchRelease" onkeyup="searchAuto(this)"/><br/>
+
+             <button onclick="searchMusic()">Search</button>
+         </div>
+
+    </div>
+    
+ </body>
+</html>

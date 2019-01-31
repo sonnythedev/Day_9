@@ -1,0 +1,51 @@
+{"data":
+    [
+        {
+          "title":"Say you say me",
+          "artist":"Lionel Richie",
+          "album":"Best of Lionel",
+          "released":1984,
+          "genre":"pop",
+          "fileName":"sample_1.wav"
+        },
+        {
+            "title":"Hello",
+            "artist":"Lionel Richie",
+            "album":"Lionel Album",
+            "released":1982,
+            "genre":"pop",
+            "fileName":"sample_2.wav"
+         },
+         {
+            "title":"From This Moment",
+            "artist":"Shania Twain",
+            "album":"Best of Shania",
+            "released":1995,
+            "genre":"pop rock",
+            "fileName":"sample_3.wav"
+         },
+         {
+            "title":"Still the one",
+            "artist":"Shania Twain",
+            "album":"Best of Shania",
+            "released":1995,
+            "genre":"pop rock",
+            "fileName":"sample_4.wav"
+         },
+         {
+            "title":"Beat it",
+            "artist":"Michael Jackson",
+            "album":"Thriller",
+            "released":1984,
+            "genre":"rock",
+            "fileName":"sample_5.wav"
+         },
+         {
+            "title":"Young and Beautiful",
+            "artist":"Lana Del Rey",
+            "album":"Lanas Summer",
+            "released":2010,
+            "genre":"funk"
+         }
+     ]
+   }
